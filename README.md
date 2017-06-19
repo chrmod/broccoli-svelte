@@ -1,3 +1,5 @@
 # broccoli-svelte
 
-it is work in progress. please do not use it
+This is work in progress. Please do not use it.
+
+If you are interested in using this addon, please open an issue.
